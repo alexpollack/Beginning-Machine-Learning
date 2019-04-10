@@ -1,2 +1,2 @@
-# Python-Machine-Learning
-Various learning algorithm based projects done using python.
+# Machine-Learning
+This repository is a set of programs and small projects, done mostly in Python, exploring various machine learning-based techniques commonly used in data science.
